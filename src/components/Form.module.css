@@ -1,0 +1,46 @@
+.Form {
+    width: 400px;
+}
+
+label {
+    color: #999999;
+    font-weight: 700;
+    padding-left: 15px;
+}
+
+.email, .checkbox {
+    width: 250px;
+    height: 30px;
+    font-size: 12px;
+    border-radius: 3px;
+    border: 1px solid #dddddd;
+    outline: none;
+    text-indent: 5px;
+    margin: 0 10px;
+}
+
+.checkbox {
+    border: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkbox input {
+    position: relative;
+    right: 20px;
+}
+
+.checkbox p {
+    position: relative;
+    right: 20px;
+}
+
+.btn {
+    border-radius: 3px;
+    margin: 0 10px;
+    border: 1px solid #dddddd;
+    outline: none;
+    height: 30px;
+}
