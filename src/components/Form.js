@@ -15,14 +15,14 @@ class Form extends Component {
 
     validateSubmit = () => {
         const isValidEmail = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(this.state.email);
-        const isValidCheckdox = this.state.checkbox;
+        const isValidCheckbox = this.state.checkbox;
 
         if (!isValidEmail) {
             alert('Your email is not valid!');
             return;
         }
 
-        if (!isValidCheckdox) {
+        if (!isValidCheckbox) {
             alert('You should accept all terms and conditions');
             return;
         }
