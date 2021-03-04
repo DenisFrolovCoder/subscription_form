@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/subscription_form_on_react/static/css/main.e3e6ca0a.chunk.css",
+    "main.js": "/subscription_form_on_react/static/js/main.d3527624.chunk.js",
+    "main.js.map": "/subscription_form_on_react/static/js/main.d3527624.chunk.js.map",
+    "runtime-main.js": "/subscription_form_on_react/static/js/runtime-main.bac40731.js",
+    "runtime-main.js.map": "/subscription_form_on_react/static/js/runtime-main.bac40731.js.map",
+    "static/js/2.348bff1e.chunk.js": "/subscription_form_on_react/static/js/2.348bff1e.chunk.js",
+    "static/js/2.348bff1e.chunk.js.map": "/subscription_form_on_react/static/js/2.348bff1e.chunk.js.map",
+    "index.html": "/subscription_form_on_react/index.html",
+    "static/css/main.e3e6ca0a.chunk.css.map": "/subscription_form_on_react/static/css/main.e3e6ca0a.chunk.css.map",
+    "static/js/2.348bff1e.chunk.js.LICENSE.txt": "/subscription_form_on_react/static/js/2.348bff1e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bac40731.js",
+    "static/js/2.348bff1e.chunk.js",
+    "static/css/main.e3e6ca0a.chunk.css",
+    "static/js/main.d3527624.chunk.js"
+  ]
+}
